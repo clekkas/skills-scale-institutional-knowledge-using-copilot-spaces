@@ -12,6 +12,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Define success criteria and initial timeline
 - Decide go/no-go for planning
 
+## Key Collaborators
+- **Product Manager:** Owns problem statement and success metrics.
+- **Project Manager:** Coordinates stakeholder alignment and owns the initiation checklist.
+- **Business Analyst:** Supports requirements gathering and scope definition.
+- **Tech Lead:** Provides early feasibility input and identifies high-level technical risks.
+- **Security / Compliance:** Reviews compliance obligations before project is approved.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.
+
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
@@ -35,6 +44,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+## Handoff to Planning
+When the decision gate is passed, use the **Requirements → Design Handoff** checklist in [Handoff Checklists](octoacme-handoff-checklists.md) to ensure the team enters planning with complete requirements.
 
 ## Decision Gate
 Move to planning when:

@@ -39,6 +39,12 @@ Retrospectives are held after each sprint, release, or major milestone—and aft
 | **Developers** | Implement features, write tests and docs, participate in design/code reviews, assist in estimation |
 | **QA / Testing** | Validates acceptance criteria and quality, runs smoke tests and exploratory testing |
 | **Stakeholders** | Provide inputs, approvals, and business context; receive regular status updates |
+| **UX/UI Designer** | Designs user experiences and interfaces; provides wireframes, prototypes, and design assets to developers |
+| **Tech Lead / Engineering Lead** | Sets technical direction, leads code reviews, mentors developers, and manages technical risks |
+| **Business Analyst** | Elicits and documents requirements; bridges business stakeholders and the delivery team |
+| **DevOps / SRE** | Maintains CI/CD pipelines, production infrastructure, and deployment/incident runbooks |
+| **Security / Compliance** | Defines security requirements, conducts security reviews, and ensures compliance obligations are met |
+| **Customer Support / Success** | Surfaces customer feedback, coordinates release communications, and ensures support readiness |
 
 ---
 
@@ -77,3 +83,4 @@ Retrospectives are held after each sprint, release, or major milestone—and aft
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release types, pre-release requirements, deployment checklist, rollback playbook, and release notes template |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, running retrospectives, tracking improvements, and continuous improvement culture |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and communication patterns for each persona |
+| [Handoff Checklists](octoacme-handoff-checklists.md) | Stage-by-stage handoff checklists (Requirements → Design → Dev → QA → Release → Post-Release) |

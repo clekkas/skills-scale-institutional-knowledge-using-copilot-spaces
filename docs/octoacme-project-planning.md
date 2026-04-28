@@ -8,6 +8,17 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Identify dependencies and risks
 - Align timelines, releases, and responsibilities
 
+## Key Collaborators
+- **Product Manager:** Drives backlog prioritization and acceptance criteria.
+- **Project Manager:** Owns the planning checklist and milestone map.
+- **Business Analyst:** Leads requirements elaboration and refinement sessions.
+- **Tech Lead:** Guides estimation, identifies dependencies, and owns the Definition of Done.
+- **UX/UI Designer:** Provides wireframes and design specifications before development starts.
+- **DevOps / SRE:** Advises on environment and deployment constraints early.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.  
+Use the [Handoff Checklists](octoacme-handoff-checklists.md) when transitioning work between roles.
+
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
 2. Create prioritized backlog with acceptance criteria
