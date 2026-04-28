@@ -3,6 +3,17 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Key Collaborators
+- **DevOps / SRE:** Owns deployment execution, monitors production, and maintains the rollback playbook.
+- **Project Manager:** Coordinates the release window, stakeholder communication, and final go/no-go decision.
+- **Product Manager:** Approves release notes and communicates the release to external stakeholders.
+- **Security / Compliance:** Signs off on security scans and compliance requirements before go-live.
+- **Customer Support / Success:** Validates support readiness and release communications.
+- **QA / Testing:** Provides final sign-off via the [QA → Release Handoff checklist](octoacme-handoff-checklists.md).
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.  
+Use the [Handoff Checklists](octoacme-handoff-checklists.md) for QA → Release and Release → Post-Release transitions.
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements

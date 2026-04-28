@@ -3,6 +3,18 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+## Key Collaborators
+- **Developers & Tech Lead:** Own day-to-day implementation; surface blockers in standups.
+- **Product Manager:** Maintains backlog priority and clarifies acceptance criteria.
+- **Project Manager:** Tracks progress, manages risks, and escalates blockers.
+- **UX/UI Designer:** Supports design QA during implementation sprints.
+- **DevOps / SRE:** Maintains CI/CD pipelines; responds to infrastructure incidents.
+- **Security / Compliance:** Reviews code and configuration for security issues.
+- **QA / Testing:** Validates deliverables against acceptance criteria each sprint.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.  
+Use the [Development → QA Handoff checklist](octoacme-handoff-checklists.md) before passing work to QA.
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
